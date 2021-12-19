@@ -1,0 +1,13 @@
+.sySider {
+  height: 100vh;
+  overflow: auto;
+  position: fixed;
+  left: 0
+}
+.syContent {
+  margin-left: 210px;
+  height: calc(100vh - 64px);
+}
+.syMenu {
+  width: 100%
+}
